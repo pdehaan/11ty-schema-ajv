@@ -1,0 +1,17 @@
+{
+  "name": "11ty-schema-ajv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "ajv": "^8.12.0"
+  }
+}
